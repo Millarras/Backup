@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>#OpCharlieHebdo</title>
+<style type="text/css">    
+body {
+background-color: black;
+font-family: "Verdana", "sans-serif";
+}
+main {
+text-align: center;
+}
+p {
+margin-top: -5px;
+color: white;
+text-align: center;
+font-size: 2em;
+}
+h1 {
+margin-top:10px;
+font-size: 4em;
+color: red;
+}
+footer {
+text-align: center;
+margin-top: -10px;
+}
+a:link {
+text-decoration: none;
+color:white;
+}
+a:visited {
+color:white;
+}
+</style>
+<main>
+<h1>Hacked by Anonymous</h1>
+<img src="http://image.noelshack.com/fichiers/2015/02/1420898415-img.jpg">
+<p><a href="https://twitter.com/OpCharlieHebdo"=>#OpCharlieHebdo</a></p>
+</main>
+<footer>
+<img src="http://image.noelshack.com/fichiers/2015/02/1420898429-img2.jpg">
+</footer>
+</div>
+</body>
+</html>
